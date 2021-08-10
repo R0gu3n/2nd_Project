@@ -1,0 +1,123 @@
+.tophr{
+  margin-top: 0px;
+  margin-bottom: 200px;
+}
+
+.navbar1{
+  margin: auto;
+}
+
+.image1{
+  width: 40px;
+  height: auto;
+  padding-right: 5px;
+}
+
+.image2{
+  width: 20px;
+  height: auto;
+  margin-left: 5px;
+}
+
+.table1{
+  margin: auto;
+}
+
+.topCard{
+  margin: auto;
+  margin-bottom: 25px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+  border-radius: 5px;
+}
+.topCard2{
+  margin: auto;
+  margin-bottom: 25px;
+}
+
+.middleCard{
+  display: inline-block;
+}
+
+#blockCard{
+  display: inline-block;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+  border-radius: 5px;
+  height: 350px;
+  width: 49.5%;
+  margin-right: 1%;
+  padding: 0px;
+}
+
+#txCard{
+  display: inline-block;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+  border-radius: 5px;
+  height: 350px;
+  width: 49.5%;
+  padding: 0px;
+}
+
+.cardScrollbar{
+  overflow: scroll;
+  overflow: hidden;
+  overflow: auto;
+  height: 265px;
+}
+
+.cardScrollbar::-webkit-scrollbar{
+    background-color: transparent;
+    width: 5px;
+}
+
+.cardScrollbar::-webkit-scrollbar-track{
+    background-color: transparent;
+}
+
+.cardScrollbar::-webkit-scrollbar-button{
+    background-color: transparent;
+}
+
+.cardScrollbar::-webkit-scrollbar-thumb{
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+.bottomButton{
+  margin: auto;
+  width: 95%;
+}
+
+.latestTable{
+  height: 265px;
+}
+
+.miniCard{
+  padding: 0px;
+}
+
+.borderRight{
+  border-right: 1px solid lightgrey;
+}
+
+.divPad{
+  padding: 15px;
+}
+
+.smallTopPad{
+  padding-top: 5px;
+}
+
+.title{
+  font-weight: bold;
+  background-color: white;
+}
+
+.textRight{
+  text-align: right;
+}
